@@ -40,7 +40,8 @@ __A Comprehensive Survey on Graph Anomaly Detection with Deep Learning__. **28 P
 _Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu_, [[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks)] [[arXiv](https://arxiv.org/abs/2106.07178)]
 
 Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks
-
+      https://arxiv.org/abs/2106.07178
+      
     @article{ma2021comprehensive,
         title={A comprehensive survey on graph anomaly detection with 
                 deep learning},
