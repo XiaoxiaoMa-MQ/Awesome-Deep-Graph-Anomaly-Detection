@@ -55,23 +55,23 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| Anomaly detection: A survey | ACM Comput. Surv. | 2009 | _Chandola et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
-| Outlier detection: Methods, models, and classification | ACM Comput. Surv. | 2020 |  _Boukerche et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
-| Anomalous Example Detection in Deep Learning: A Survey | arXiv | 2021 | _Bulusu et al._ | [[Paper](https://arxiv.org/abs/2003.06979)] |
-| A comprehensive survey of anomaly detection techniques for high dimensional big data | J. Big Data | 2020 | _Thudumu et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | Deep learning for anomaly detection | ACM Comput. Surv. | 2021 | _Pang et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| Deep learning for anomaly detection: A survey | arXiv | 2019 | _Chalapathy and Chawla_ | [[Paper](https://arxiv.org/abs/1901.03407)] |
-| Graph based anomaly detection and description: A survey | Data Min. Knowl. Discovery | 2015 | _Akoglu et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| Anomaly detection in dynamic networks: A survey | Wiley Interdiscip. Rev. Comput. Stat. | 2018 | _Ranshous et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | Anomaly detection for big data using efficient techniques: A review | AIDE | 2021 | _Jennifer and Kumar_ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Anomalous Example Detection in Deep Learning: A Survey | arXiv | 2021 | _Bulusu et al._ | [[Paper](https://arxiv.org/abs/2003.06979)] |
+| Outlier detection: Methods, models, and classification | ACM Comput. Surv. | 2020 |  _Boukerche et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
+| A comprehensive survey of anomaly detection techniques for high dimensional big data | J. Big Data | 2020 | _Thudumu et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | Machine learning techniques for network anomaly detection: A survey | Int. Conf. Inform. IoT Enabling Technol | 2020 | _Eltanbouly et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Fraud detec- tion: A systematic literature review of graph-based anomaly detection approaches | Decis. Support Syst. | 2020 | _Pourhabibi et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | A comprehensive survey on network anomaly detection | Telecommun. Syst. | 2020 | _Fernandes et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | A survey of deep learning-based network anomaly detection | Clust. Comput. | 2019 | _Kwon et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| A survey of outlier detection methods in network anomaly identification | Comput. J. | 2011 | _Gogoi et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| Anomaly detection in online social networks | Soc. Networks | 2014 | _Savage et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+ Combining machine learning with knowledge engineering to detect fake news in social networks-a survey | AAAI Conf. Artif. Intell | 2019 | _Hunkelmann et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Deep learning for anomaly detection: A survey | arXiv | 2019 | _Chalapathy and Chawla_ | [[Paper](https://arxiv.org/abs/1901.03407)] |
+| Anomaly detection in dynamic networks: A survey | Wiley Interdiscip. Rev. Comput. Stat. | 2018 | _Ranshous et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | A survey on social media anomaly detection | SIGKDD Explor. | 2016 | _Yu et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| Combining machine learning with knowledge engineering to detect fake news in social networks-a survey, | AAAI Conf. Artif. Intell | 2019 | _Hunkelmann et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| Fraud detec- tion: A systematic literature review of graph-based anomaly detection approaches | Decis. Support Syst. | 2020 | _Pourhabibi et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Graph based anomaly detection and description: A survey | Data Min. Knowl. Discovery | 2015 | _Akoglu et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Anomaly detection in online social networks | Soc. Networks | 2014 | _Savage et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| A survey of outlier detection methods in network anomaly identification | Comput. J. | 2011 | _Gogoi et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Anomaly detection: A survey | ACM Comput. Surv. | 2009 | _Chandola et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
 
 ----------
 
@@ -92,8 +92,8 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 #### Network Representation Based Techniques
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| An embedding approach to anomaly detection | Int. Conf. Data Eng. | 2016 | _Hu et al._ | [[Paper]()] |
 | Decoupling representation learning and classification for gnn-based anomaly detection | Int. ACM SIGIR | 2021 | _Wang et al._ | [[Paper]()] |
+| An embedding approach to anomaly detection | Int. Conf. Data Eng. | 2016 | _Hu et al._ | [[Paper]()] |
 
 ----------
 
@@ -102,9 +102,10 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 #### Traditional Non-Deep Learning Techniques
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
+| Anomalous: A joint modeling approach for anomaly detection on attributed networks | Int. Joint Conf. Artif. Intell. | 2018 | _Peng et al._ | [[Paper]()] |
 | Accelerated local anomaly detection via resolving attributed networks | Int. Joint Conf. Artif. Intell. | 2017 | _Liu et al._ | [[Paper]()] |
 | Radar: Residual analysis for anomaly detection in attributed networks | Int. Joint Conf. Artif. Intell., | 2017 | _Li et al._ | [[Paper]()] |
-| Anomalous: A joint modeling approach for anomaly detection on attributed networks | Int. Joint Conf. Artif. Intell. | 2018 | _Peng et al._ | [[Paper]()] |
+
 
 ----------
 
@@ -119,12 +120,12 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| Deep anomaly detection on attributed networks | SIAM Int. Conf. Data Mining | 2019 | _Ding et al._ | [[Paper]()] |
+| Resgcn: Attention-based deep residual modeling for anomaly detection on attributed networks | Mach. Learn. | 2021 | _Pei et al._ | [[Paper]()] |
 | A deep multi-view framework for anomaly detection on attributed networks | IEEE Trans. Knowl. Data Eng. | 2020 | _Peng et al._ | [[Paper]()] |
 | Specae: Spectral autoencoder for anomaly detection in attributed networks | Int. Conf. Inf. Knowl. Manage. | 2020 | _Li et al._ | [[Paper]()] |
-| Fdgars: Fraudster detection via graph convolutional networks in online app review system | Int. Conf. World Wide Web | 2019 | _Wang et al._ | [[Paper]()] |
 | Gcn-based user representation learning for unifying robust recommendation and fraudster detection | ACM SIGIR | 2020 | _Zhang et al._ | [[Paper]()] |
-| Resgcn: Attention-based deep residual modeling for anomaly detection on attributed networks | Mach. Learn. | 2021 | _Pei et al._ | [[Paper]()] |
+| Deep anomaly detection on attributed networks | SIAM Int. Conf. Data Mining | 2019 | _Ding et al._ | [[Paper]()] |
+| Fdgars: Fraudster detection via graph convolutional networks in online app review system | Int. Conf. World Wide Web | 2019 | _Wang et al._ | [[Paper]()] |
 
 ----------
 
@@ -148,32 +149,33 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 #### Reinforcement Learning Based Techniques
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| Interactive anomaly detection on attributed networks | Int. Conf. Web Search Data Mining | 2019 | _Ding et al._ | [[Paper]()] |
 | Selective network discovery via deep reinforcement learning on embedded spaces | Appl.Network Sci. | 2021 | _Morales et al._ | [[Paper]()] |
+| Interactive anomaly detection on attributed networks | Int. Conf. Web Search Data Mining | 2019 | _Ding et al._ | [[Paper]()] |
 
 ----------
 
 #### Network Representation Based Techniques
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| A robust embedding method for anomaly detection on attributed networks | Int. Joint Conf. Neural Netw. | 2019 | _Zhang et al._ | [[Paper]()] |
-| Enhancing graph neural network-based fraud detectors against camouflaged fraudsters | ACM Int. Conf. Inf. Knowl. Manage. | 2020 | _Dou et al._ | [[Paper]()] |
-| Semi-supervised embedding in attributed networks with outliers | SIAM Int. Conf. Data Mining | 2018 | _Liang et al._ | [[Paper]()] |
-| One-class graph neural networks for anomaly detection in attributed networks | Neural Comput. Appl. | 2021 | _Wang et al._ | [[Paper]()] |
-| Error-bounded graph anomaly loss for gnns | ACM Int. Conf. Inf. Knowl. Manage. | 2021 | _Zhao et al._ | [[Paper]()] |
 | Anomaly detection on attributed networks via contrastive self-supervised learning | IEEE Trans. Neural Networks Learn. Syst. | 2021 | _Liu et al._ | [[Paper]()] |
 | Cross-domain graph anomaly detection | IEEE Trans. Neural Networks Learn. Syst. | 2021 | _Ding et al._ | [[Paper]()] |
 | Fraudre: Fraud detection dual-resistant to graph inconsistency and imbalance | Pacific-Asia Conf. Knowl. Discov. Data Mining | 2021 | _Zhang et al._ | [[Paper]()] |
 | Few-shot network anomaly detection via cross-network meta-learning | Web Conf. | 2021 | _Ding et al._ | [[Paper]()] |
+| One-class graph neural networks for anomaly detection in attributed networks | Neural Comput. Appl. | 2021 | _Wang et al._ | [[Paper]()] |
+| Error-bounded graph anomaly loss for gnns | ACM Int. Conf. Inf. Knowl. Manage. | 2021 | _Zhao et al._ | [[Paper]()] |
+| Enhancing graph neural network-based fraud detectors against camouflaged fraudsters | ACM Int. Conf. Inf. Knowl. Manage. | 2020 | _Dou et al._ | [[Paper]()] |
+| A robust embedding method for anomaly detection on attributed networks | Int. Joint Conf. Neural Netw. | 2019 | _Zhang et al._ | [[Paper]()] |
+| Semi-supervised embedding in attributed networks with outliers | SIAM Int. Conf. Data Mining | 2018 | _Liang et al._ | [[Paper]()] |
 
 ----------
 
 ### Anomalous Node Detection on Dynamic Graphs
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
+| One-class adversarial nets for fraud detection | AAAI Conf. Artif. Intell. | 2019 | _Zheng et al._ | [[Paper]()] |
 | Netwalk: A flexible deep embedding approach for anomaly detection in dynamic networks | ACM SIGKDD | 2018 | _Yu et al._ | [[Paper]()] |
 | Anomaly detection in dynamic networks using multi-view time-series hypersphere learning | ACM Int. Conf. Inf. Knowl. Manage. | 2017 | _Teng et al._ | [[Paper]()] |
-| One-class adversarial nets for fraud detection | AAAI Conf. Artif. Intell. | 2019 | _Zheng et al._ | [[Paper]()] |
+
 
 ----------
 
@@ -181,11 +183,11 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
+| efraudcom: An e-commerce fraud detection system via competitive graph neural networks | ACM Trans. Inf. Syst. | 2021 | _Zhang et al._ | [[Paper]()] |
 | Unified graph embedding-based anomalous edge detection | Int. Joint Conf. Neural Netw. | 2020 | _Ouyang et al._ | [[Paper]()] |
 | Aane: Anomaly aware network embedding for anomalous link detection | IEEE Int. Conf. Data Mining | 2020 | _Duan et al._ | [[Paper]()] |
-| efraudcom: An e-commerce fraud detection system via competitive graph neural networks | ACM Trans. Inf. Syst. | 2021 | _Zhang et al._ | [[Paper]()] |
-| Netwalk: A flexible deep embedding approach for anomaly detection in dynamic networks | ACM SIGKDD | 2018 | _Yu et al._ | [[Paper]()] |
 | Addgraph: Anomaly detection in dynamic graph using attention-based temporal gcn | Int. Joint Conf. Artif. Intell. | 2019 | _Zheng et al._ | [[Paper]()] |
+| Netwalk: A flexible deep embedding approach for anomaly detection in dynamic networks | ACM SIGKDD | 2018 | _Yu et al._ | [[Paper]()] |
 
 ----------
 
@@ -202,8 +204,9 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 | ---- | ---- | -- | ---- | ---- | 
 | User preference-aware fake news detection | arXiv | 2021 | _Dou et al._ | [[Paper](https://arxiv.org/abs/2104.12259)] |
 | On using classification datasets to evaluate graph outlier detection: Peculiar observations and new insights | arXiv | 2021 | _Zheng et al._ | [[Paper](https://arxiv.org/abs/2012.12931)] |
-| Deep into hypersphere: Robust and unsupervised anomaly discovery in dynamic networks | Int. Joint Conf. Artif. Intell. | 2018 | _Teng et al._ | [[Paper]()] |
 | Glad-paw: Graph-based log anomaly detection by position aware weighted graph attention network | Pacific-Asia Conf. Knowl. Discov. Data Mining | 2021 | _Zheng et al._ | [[Paper]()] |
+| Deep into hypersphere: Robust and unsupervised anomaly discovery in dynamic networks | Int. Joint Conf. Artif. Intell. | 2018 | _Teng et al._ | [[Paper]()] |
+
 
 ----------
 
