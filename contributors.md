@@ -12,5 +12,8 @@
 
 ## Macquarie University
 - Xiaoxiao Ma, Department of Computing
+- Fanzhen Liu, Department of Computing
+- Xing Su, Department of Computing
+- Ge Zhang, Department of Computing
 - Jia Wu, Department of Computing
 - Jian Yang, Department of Computing
