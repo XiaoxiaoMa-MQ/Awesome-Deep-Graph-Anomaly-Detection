@@ -4,12 +4,6 @@
 
 A collection of papers on deep learning for graph anomaly detection, and published algorithms and datasets.
 
-Current Contributors:
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection"/>
-</a>
-
 - [Awesome-Deep-Graph-Anomaly-Detection](#awesome-deep-graph-anomaly-detection)
   - [A Timeline of graph anomaly detection](#a-timeline-of-graph-anomaly-detection)
   - [Survey](#survey)
