@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) ![GitHub stars](https://img.shields.io/github/stars/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection?color=blue&label=Forks) ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxiaoMa-MQ)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxiaoMa-MQ&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 A collection of papers on deep learning for graph anomaly detection, and published algorithms and datasets.
