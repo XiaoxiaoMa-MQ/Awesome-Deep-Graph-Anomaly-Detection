@@ -4,6 +4,12 @@
 
 A collection of papers on deep learning for graph anomaly detection, and published algorithms and datasets.
 
+<a href = "https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/contributors">
+  <img src = "https://contrib.rocks/image?repo = XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection"/>
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
+
 - [Awesome-Deep-Graph-Anomaly-Detection](#awesome-deep-graph-anomaly-detection)
   - [A Timeline of graph anomaly detection](#a-timeline-of-graph-anomaly-detection)
   - [Survey](#survey)
