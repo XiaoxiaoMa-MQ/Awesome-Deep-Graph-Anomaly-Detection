@@ -262,11 +262,15 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 ----------
 
 ## Datasets
+
 ### Citation/Co-authorship Networks
+
 - Citeseer, Cora, Pubmed https://linqs.soe.ucsc.edu/data
 - DBLP http://snap.stanford.edu/data/com-DBLP.html, http://www.informatik.uni-trier.de/ ̃ley/db/
 - ACM http://www.arnetminer.org/open-academic-graph
+
 ### Social Networks
+
 - Enron http://odds.cs.stonybrook.edu/#table2
 - UCI Message http://archive.ics.uci.edu/ml
 - Google+ https://wangbinghui.net/dataset.html
@@ -277,23 +281,29 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 - NYTNews http://shebuti.com/SelectiveAnomalyEnsemble/
 - Politifact https://github.com/safe-graph/GNN-FakeNews
 - Gossipcop https://github.com/safe-graph/GNN-FakeNews
+
 ### Co-purchasing Networks
+
 - Disney Calls https://www.ipd.kit.edu/mitarbeiter/muellere/consub/
 - Amazon-v1 https://www.ipd.kit.edu/mitarbeiter/muellere/consub/
 - Amazon-v2 https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py
 - Elliptic https://www.kaggle.com/ellipticco/elliptic-data-set
 - Yelp https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py
+
 ### Transportation Networks
+
 - New York City Taxi http://www.nyc.gov/html/tlc/html/about/triprecorddata.shtml
 
 ----------
 
 ## Tools
+
 - Gephi https://gephi.org/
 - Pajek http://mrvar.fdv.uni-lj.si/pajek/
 - LFR https://www.santofortunato.net/resources
 
 ----------
+
 **Disclaimer**
 
 If you have any questions or updated news on graph anomaly detection, please feel free to contact us.
