@@ -178,12 +178,12 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 ----------
 
 ## Anomalous Node Detection on Dynamic Graphs
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | One-class adversarial nets for fraud detection | AAAI Conf. Artif. Intell. | 2019 | _Zheng et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3924/3802)] |
 | Netwalk: A flexible deep embedding approach for anomaly detection in dynamic networks | ACM SIGKDD | 2018 | _Yu et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)] |
 | Anomaly detection in dynamic networks using multi-view time-series hypersphere learning | ACM Int. Conf. Inf. Knowl. Manage. | 2017 | _Teng et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132964)] |
-
 
 ----------
 
@@ -200,6 +200,7 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 ----------
 
 ## Anomalous Sub-graph Detection
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Deep structure learning for fraud detection | IEEE Int. Conf. Data Mining | 2018 | _Wang et al._ | [[Paper](https://ieeexplore.ieee.org/iel7/8591042/8594809/08594881.pdf)] |
@@ -208,6 +209,7 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 ----------
 
 ## Anomalous Graph Detection
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | User preference-aware fake news detection | arXiv | 2021 | _Dou et al._ | [[Paper](https://arxiv.org/abs/2104.12259)] |
