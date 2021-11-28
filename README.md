@@ -94,6 +94,7 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 ----------
 
 #### Network Representation Based Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Decoupling representation learning and classification for gnn-based anomaly detection | Int. ACM SIGIR | 2021 | _Wang et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462944)] |
@@ -104,16 +105,17 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 ### Anomalous Node Detection on Static Attributed Graphs
 
 #### Traditional Non-Deep Learning Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Anomalous: A joint modeling approach for anomaly detection on attributed networks | Int. Joint Conf. Artif. Intell. | 2018 | _Peng et al._ | [[Paper](https://www.ijcai.org/Proceedings/2018/0488.pdf)] |
 | Accelerated local anomaly detection via resolving attributed networks | Int. Joint Conf. Artif. Intell. | 2017 | _Liu et al._ | [[Paper](https://www.ijcai.org/Proceedings/2017/0325.pdf)] |
 | Radar: Residual analysis for anomaly detection in attributed networks | Int. Joint Conf. Artif. Intell., | 2017 | _Li et al._ | [[Paper](https://www.researchgate.net/profile/Jundong-Li/publication/318830338_Radar_Residual_Analysis_for_Anomaly_Detection_in_Attributed_Networks/links/5a1f17c4458515a4c3d478ce/Radar-Residual-Analysis-for-Anomaly-Detection-in-Attributed-Networks.pdf)] |
 
-
 ----------
 
 #### Deep Neural Network Based Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Outlier resistant unsupervised deep architectures for attributed network embedding | Int. Conf. Web Search Data Mining | 2020 | _Bandyopadhyay et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371788)] |
@@ -160,6 +162,7 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 ----------
 
 #### Network Representation Based Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Anomaly detection on attributed networks via contrastive self-supervised learning | IEEE Trans. Neural Networks Learn. Syst. | 2021 | _Liu et al._ | [[Paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf)] |
