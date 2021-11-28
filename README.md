@@ -217,7 +217,6 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 | Glad-paw: Graph-based log anomaly detection by position aware weighted graph attention network | Pacific-Asia Conf. Knowl. Discov. Data Mining | 2021 | _Zheng et al._ | [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-030-75762-5_6.pdf)] |
 | Deep into hypersphere: Robust and unsupervised anomaly discovery in dynamic networks | Int. Joint Conf. Artif. Intell. | 2018 | _Teng et al._ | [[Paper](https://par.nsf.gov/servlets/purl/10070284)] |
 
-
 ----------
 
 ## Published Algorithms and Models
