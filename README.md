@@ -15,13 +15,14 @@ A collection of papers on deep learning for graph anomaly detection, and publish
     - [Anomalous Node Detection on Static Plain Graphs](#anomalous-node-detection-on-static-plain-graphs)
       - [Traditional Non-Deep Learning Techniques](#traditional-non-deep-learning-techniques)
       - [Network Representation Based Techniques](#network-representation-based-techniques)
+      - [Reinforcement Learning Based Techniques](#reinforcement-learning-based-techniques)
     - [Anomalous Node Detection on Static Attributed Graphs](#anomalous-node-detection-on-static-attributed-graphs)
       - [Traditional Non-Deep Learning Techniques](#traditional-non-deep-learning-techniques-1)
       - [Deep Neural Network Based Techniques](#deep-neural-network-based-techniques)
       - [Graph Convolutional Neural Network Based Techniques](#graph-convolutional-neural-network-based-techniques)
       - [Graph Attention Neural Network Based Techniques](#graph-attention-neural-network-based-techniques)
       - [Generative Adversarial Neural Network Based Techniques](#generative-adversarial-neural-network-based-techniques)
-      - [Reinforcement Learning Based Techniques](#reinforcement-learning-based-techniques)
+      - [Reinforcement Learning Based Techniques](#reinforcement-learning-based-techniques-1)
       - [Network Representation Based Techniques](#network-representation-based-techniques-1)
   - [Anomalous Node Detection on Dynamic Graphs](#anomalous-node-detection-on-dynamic-graphs)
   - [Anomalous Edge Detection](#anomalous-edge-detection)
@@ -102,6 +103,14 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 
 ----------
 
+#### Reinforcement Learning Based Techniques
+
+| Paper Title | Venue | Year | Authors | Materials | 
+| ---- | ---- | -- | ---- | ---- | 
+| Selective network discovery via deep reinforcement learning on embedded spaces | Appl.Network Sci. | 2021 | _Morales et al._ | [[Paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00365-8)] |
+
+----------
+
 ### Anomalous Node Detection on Static Attributed Graphs
 
 #### Traditional Non-Deep Learning Techniques
@@ -156,7 +165,6 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| Selective network discovery via deep reinforcement learning on embedded spaces | Appl.Network Sci. | 2021 | _Morales et al._ | [[Paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00365-8)] |
 | Interactive anomaly detection on attributed networks | Int. Conf. Web Search Data Mining | 2019 | _Ding et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964)] |
 
 ----------
