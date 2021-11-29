@@ -260,7 +260,7 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 |UPFD | Python |Pytorch |Graph Database |https://github.com/safe-graph/GNN-FakeNews|
 |OCGIN | Python |Pytorch |Graph Database |https://github.com/LingxiaoShawn/GLOD-Issues|
 |DAGMM | Python |Pytorch |Non Graph |https://github.com/danieltan07/dagmm|
-|DevNet | Python |Tensorflow |Non Graphh |https://github.com/GuansongPang/deviationnetwork|
+|DevNet | Python |Tensorflow |Non Graph |https://github.com/GuansongPang/deviationnetwork|
 |RDA | Python |Tensorflow |Non Graph |https://github.com/zc8340311/RobustAutoencoder|
 |GAD | Python |Tensorflow |Non Graph |https://github.com/raghavchalapathy/gad|
 |Deep SAD | Python |Pytorch |Non Graph |https://github.com/lukasruff/Deep-SAD-PyTorch|
