@@ -16,4 +16,5 @@
 - Xing Su, Department of Computing
 - Ge Zhang, Department of Computing
 - Jia Wu, Department of Computing
+- Shan Xue, Department of Computing
 - Jian Yang, Department of Computing
