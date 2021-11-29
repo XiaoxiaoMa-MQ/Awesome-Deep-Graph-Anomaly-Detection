@@ -231,12 +231,11 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 
 | Model | Language | Platform | Graph | Code Repository |
 | --- | -- | ---- | ---- | -----|
-|Sedanspot | C++ | - | Dynamic Graph | https://www.github.com/dhivyaeswaran/sedanspot |
-|AnomalyDAE | Python | Tensorflow | Dynamic Attribute Graph | https://github.com/haoyfan/AnomalyDAE |
+|AnomalyDAE | Python | Tensorflow | Static Attributed Graph | https://github.com/haoyfan/AnomalyDAE |
 |MADAN | Python| - |Static Attributed Graph | https://github.com/leoguti85/MADAN|
 |PAICAN | Python | Tensorflow | Static Attributed Graph | http://www.kdd.in.tum.de/PAICAN/ |
-| Changedar | Matlab | - |Dynamic Attributed Graph| https://bhooi.github.io/changedar/|
-|ONE | Python |- |Static Plain Graph |https://github.com/sambaranban/ONE|
+|ONE | Python |- |Static Attributed Graph |https://github.com/sambaranban/ONE|
+|DONE&AdONE | Python| Tensorflow |Static Attributed Graph |https://bit.ly/35A2xHs|
 |DONE&AdONE | Python| Tensorflow |Static Attributed Graph |https://bit.ly/35A2xHs|
 |SLICENDICE  |Python |- |Static Attributed Graph |http://github.com/hamedn/SliceNDice/|
 |FRAUDRE | Python |Pytorch |Static Attributed Graph |https://github.com/FraudDetection/FRAUDRE|
@@ -244,27 +243,29 @@ Link: https://www.computer.org/csdl/journal/tk/5555/01/09565320/1xx849OoPks, htt
 |CARE-GNN | Python |Pytorch| Static Attributed Graph |https://github.com/YingtongDou/CARE-GNN|
 |GraphConsis | Python |Tensorflow |Static Attributed Graph |https://github.com/safe-graph/DGFraud|
 |GLOD | Python |Pytorch |Static Attributed Graph |https://github.com/LingxiaoShawn/GLOD-Issues|
+|OCAN | Python |Tensorflow |Static Graph |https://github.com/PanpanZheng/OCAN|
+|DeFrauder | Python |- |Static Graph |https://github.com/LCS2-IIITD/DeFrauder|
 |GCAN | Python |Keras| Heterogeneous Graph |https://github.com/l852888/GCAN|
 |HGATRD | Python |Pytorch |Heterogeneous Graph |https://github.com/201518018629031/HGATRD|
 |GLAN | Python |Pytorch |Heterogeneous Graph |https://github.com/chunyuanY/RumorDetection|
-|ANOMRANK | C++ |- |Dynamic Graph |https://github.com/minjiyoon/anomrank|
-|DAGMM | Python |Pytorch |Dynamic Graph |https://github.com/danieltan07/dagmm|
-|F-FADE | Python |Pytorch |Dynamic Graph |http://snap.stanford.edu/f-fade/|
-|OCAN | Python |Tensorflow |Static Graph |https://github.com/PanpanZheng/OCAN|
-|DevNet | Python |Tensorflow |Static Graph |https://github.com/GuansongPang/deviationnetwork|
-|RDA | Python |Tensorflow |Static Graph |https://github.com/zc8340311/RobustAutoencoder|
-|GAD | Python |Tensorflow |Static Graph |https://github.com/raghavchalapathy/gad|
-|GEM | Python |- |Static Graph |https://github.com/safe-graph/DGFraud/tree/master/algorithms/GEM|
-|eFraudCom | Python |Pytorch |Static Graph |https://github.com/GeZhangMQ/eFraudCom|
-|MIDAS  |C++ |- |Dynamic Graph |https://github.com/Stream-AD/MIDAS|
-|DeFrauder | Python |- |Static Graph |https://github.com/LCS2-IIITD/DeFrauder|
+|GEM | Python |- |Heterogeneous Graph |https://github.com/safe-graph/DGFraud/tree/master/algorithms/GEM|
+|eFraudCom | Python | pytorch |Heterogeneous Graph |https://github.com/GeZhangMQ/eFraudCom|
 |DeepFD | Python| Pytorch |Bipartite Graph| https://github.com/JiaWu-Repository/DeepFDpyTorch|
-|STS-NN | Python| Pytorch |Static Graph |https://github.com/JiaWu-Repository/STS-NN|
-|UPFD | Python |Pytorch |Graph Database |https://github.com/safe-graph/GNN-FakeNews|
+|ANOMRANK | C++ |- |Dynamic Graph |https://github.com/minjiyoon/anomrank|
+|MIDAS  |C++ |- |Dynamic Graph |https://github.com/Stream-AD/MIDAS|
+|Sedanspot | C++ | - | Dynamic Graph | https://www.github.com/dhivyaeswaran/sedanspot |
+|F-FADE | Python |Pytorch |Dynamic Graph |http://snap.stanford.edu/f-fade/|
 |DeepSphere | Python| Tensorflow |Dynamic Graph |https://github.com/picsolab/DeepSphere|
+| Changedar | Matlab | - |Dynamic Graph| https://bhooi.github.io/changedar/|
+|UPFD | Python |Pytorch |Graph Database |https://github.com/safe-graph/GNN-FakeNews|
 |OCGIN | Python |Pytorch |Graph Database |https://github.com/LingxiaoShawn/GLOD-Issues|
+|DAGMM | Python |Pytorch |Non Graph |https://github.com/danieltan07/dagmm|
+|DevNet | Python |Tensorflow |Non Graphh |https://github.com/GuansongPang/deviationnetwork|
+|RDA | Python |Tensorflow |Non Graph |https://github.com/zc8340311/RobustAutoencoder|
+|GAD | Python |Tensorflow |Non Graph |https://github.com/raghavchalapathy/gad|
 |Deep SAD | Python |Pytorch |Non Graph |https://github.com/lukasruff/Deep-SAD-PyTorch|
 |DATE | Python |Pytorch |Non Graph |https://github.com/Roytsai27/Dual-Attentive-Treeaware-Embedding|
+|STS-NN | Python| Pytorch |Non Graph |https://github.com/JiaWu-Repository/STS-NN|
 
 ----------
 
