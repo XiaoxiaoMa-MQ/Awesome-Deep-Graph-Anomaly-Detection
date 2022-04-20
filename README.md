@@ -1,6 +1,10 @@
 # Awesome-Deep-Graph-Anomaly-Detection
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) ![GitHub stars](https://img.shields.io/github/stars/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection?color=blue&label=Forks) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) 
+![GitHub stars](https://img.shields.io/github/stars/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection?color=yellow&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection?color=blue&label=Forks) 
+![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
 A collection of papers on deep learning for graph anomaly detection, and published algorithms and datasets.
 
@@ -11,13 +15,14 @@ A collection of papers on deep learning for graph anomaly detection, and publish
     - [Anomalous Node Detection on Static Plain Graphs](#anomalous-node-detection-on-static-plain-graphs)
       - [Traditional Non-Deep Learning Techniques](#traditional-non-deep-learning-techniques)
       - [Network Representation Based Techniques](#network-representation-based-techniques)
+      - [Reinforcement Learning Based Techniques](#reinforcement-learning-based-techniques)
     - [Anomalous Node Detection on Static Attributed Graphs](#anomalous-node-detection-on-static-attributed-graphs)
       - [Traditional Non-Deep Learning Techniques](#traditional-non-deep-learning-techniques-1)
       - [Deep Neural Network Based Techniques](#deep-neural-network-based-techniques)
       - [Graph Convolutional Neural Network Based Techniques](#graph-convolutional-neural-network-based-techniques)
       - [Graph Attention Neural Network Based Techniques](#graph-attention-neural-network-based-techniques)
       - [Generative Adversarial Neural Network Based Techniques](#generative-adversarial-neural-network-based-techniques)
-      - [Reinforcement Learning Based Techniques](#reinforcement-learning-based-techniques)
+      - [Reinforcement Learning Based Techniques](#reinforcement-learning-based-techniques-1)
       - [Network Representation Based Techniques](#network-representation-based-techniques-1)
   - [Anomalous Node Detection on Dynamic Graphs](#anomalous-node-detection-on-dynamic-graphs)
   - [Anomalous Edge Detection](#anomalous-edge-detection)
@@ -90,6 +95,7 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 ----------
 
 #### Network Representation Based Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Decoupling representation learning and classification for gnn-based anomaly detection | Int. ACM SIGIR | 2021 | _Wang et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462944)] |
@@ -97,19 +103,28 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 
 ----------
 
+#### Reinforcement Learning Based Techniques
+
+| Paper Title | Venue | Year | Authors | Materials | 
+| ---- | ---- | -- | ---- | ---- | 
+| Selective network discovery via deep reinforcement learning on embedded spaces | Appl.Network Sci. | 2021 | _Morales et al._ | [[Paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00365-8)] |
+
+----------
+
 ### Anomalous Node Detection on Static Attributed Graphs
 
 #### Traditional Non-Deep Learning Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Anomalous: A joint modeling approach for anomaly detection on attributed networks | Int. Joint Conf. Artif. Intell. | 2018 | _Peng et al._ | [[Paper](https://www.ijcai.org/Proceedings/2018/0488.pdf)] |
 | Accelerated local anomaly detection via resolving attributed networks | Int. Joint Conf. Artif. Intell. | 2017 | _Liu et al._ | [[Paper](https://www.ijcai.org/Proceedings/2017/0325.pdf)] |
 | Radar: Residual analysis for anomaly detection in attributed networks | Int. Joint Conf. Artif. Intell., | 2017 | _Li et al._ | [[Paper](https://www.researchgate.net/profile/Jundong-Li/publication/318830338_Radar_Residual_Analysis_for_Anomaly_Detection_in_Attributed_Networks/links/5a1f17c4458515a4c3d478ce/Radar-Residual-Analysis-for-Anomaly-Detection-in-Attributed-Networks.pdf)] |
 
-
 ----------
 
 #### Deep Neural Network Based Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Outlier resistant unsupervised deep architectures for attributed network embedding | Int. Conf. Web Search Data Mining | 2020 | _Bandyopadhyay et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371788)] |
@@ -147,14 +162,15 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 ----------
 
 #### Reinforcement Learning Based Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| Selective network discovery via deep reinforcement learning on embedded spaces | Appl.Network Sci. | 2021 | _Morales et al._ | [[Paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00365-8)] |
 | Interactive anomaly detection on attributed networks | Int. Conf. Web Search Data Mining | 2019 | _Ding et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964)] |
 
 ----------
 
 #### Network Representation Based Techniques
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Anomaly detection on attributed networks via contrastive self-supervised learning | IEEE Trans. Neural Networks Learn. Syst. | 2021 | _Liu et al._ | [[Paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf)] |
@@ -170,12 +186,12 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 ----------
 
 ## Anomalous Node Detection on Dynamic Graphs
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | One-class adversarial nets for fraud detection | AAAI Conf. Artif. Intell. | 2019 | _Zheng et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3924/3802)] |
 | Netwalk: A flexible deep embedding approach for anomaly detection in dynamic networks | ACM SIGKDD | 2018 | _Yu et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)] |
 | Anomaly detection in dynamic networks using multi-view time-series hypersphere learning | ACM Int. Conf. Inf. Knowl. Manage. | 2017 | _Teng et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132964)] |
-
 
 ----------
 
@@ -192,6 +208,7 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 ----------
 
 ## Anomalous Sub-graph Detection
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | Deep structure learning for fraud detection | IEEE Int. Conf. Data Mining | 2018 | _Wang et al._ | [[Paper](https://ieeexplore.ieee.org/iel7/8591042/8594809/08594881.pdf)] |
@@ -200,6 +217,7 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 ----------
 
 ## Anomalous Graph Detection
+
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 | User preference-aware fake news detection | arXiv | 2021 | _Dou et al._ | [[Paper](https://arxiv.org/abs/2104.12259)] |
@@ -207,19 +225,17 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 | Glad-paw: Graph-based log anomaly detection by position aware weighted graph attention network | Pacific-Asia Conf. Knowl. Discov. Data Mining | 2021 | _Zheng et al._ | [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-030-75762-5_6.pdf)] |
 | Deep into hypersphere: Robust and unsupervised anomaly discovery in dynamic networks | Int. Joint Conf. Artif. Intell. | 2018 | _Teng et al._ | [[Paper](https://par.nsf.gov/servlets/purl/10070284)] |
 
-
 ----------
 
 ## Published Algorithms and Models
 
 | Model | Language | Platform | Graph | Code Repository |
 | --- | -- | ---- | ---- | -----|
-|Sedanspot | C++ | - | Dynamic Graph | https://www.github.com/dhivyaeswaran/sedanspot |
-|AnomalyDAE | Python | Tensorflow | Dynamic Attribute Graph | https://github.com/haoyfan/AnomalyDAE |
+|AnomalyDAE | Python | Tensorflow | Static Attributed Graph | https://github.com/haoyfan/AnomalyDAE |
 |MADAN | Python| - |Static Attributed Graph | https://github.com/leoguti85/MADAN|
 |PAICAN | Python | Tensorflow | Static Attributed Graph | http://www.kdd.in.tum.de/PAICAN/ |
-| Changedar | Matlab | - |Dynamic Attributed Graph| https://bhooi.github.io/changedar/|
-|ONE | Python |- |Static Plain Graph |https://github.com/sambaranban/ONE|
+|ONE | Python |- |Static Attributed Graph |https://github.com/sambaranban/ONE|
+|DONE&AdONE | Python| Tensorflow |Static Attributed Graph |https://bit.ly/35A2xHs|
 |DONE&AdONE | Python| Tensorflow |Static Attributed Graph |https://bit.ly/35A2xHs|
 |SLICENDICE  |Python |- |Static Attributed Graph |http://github.com/hamedn/SliceNDice/|
 |FRAUDRE | Python |Pytorch |Static Attributed Graph |https://github.com/FraudDetection/FRAUDRE|
@@ -227,36 +243,42 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 |CARE-GNN | Python |Pytorch| Static Attributed Graph |https://github.com/YingtongDou/CARE-GNN|
 |GraphConsis | Python |Tensorflow |Static Attributed Graph |https://github.com/safe-graph/DGFraud|
 |GLOD | Python |Pytorch |Static Attributed Graph |https://github.com/LingxiaoShawn/GLOD-Issues|
+|OCAN | Python |Tensorflow |Static Graph |https://github.com/PanpanZheng/OCAN|
+|DeFrauder | Python |- |Static Graph |https://github.com/LCS2-IIITD/DeFrauder|
 |GCAN | Python |Keras| Heterogeneous Graph |https://github.com/l852888/GCAN|
 |HGATRD | Python |Pytorch |Heterogeneous Graph |https://github.com/201518018629031/HGATRD|
 |GLAN | Python |Pytorch |Heterogeneous Graph |https://github.com/chunyuanY/RumorDetection|
-|ANOMRANK | C++ |- |Dynamic Graph |https://github.com/minjiyoon/anomrank|
-|DAGMM | Python |Pytorch |Dynamic Graph |https://github.com/danieltan07/dagmm|
-|F-FADE | Python |Pytorch |Dynamic Graph |http://snap.stanford.edu/f-fade/|
-|OCAN | Python |Tensorflow |Static Graph |https://github.com/PanpanZheng/OCAN|
-|DevNet | Python |Tensorflow |Static Graph |https://github.com/GuansongPang/deviationnetwork|
-|RDA | Python |Tensorflow |Static Graph |https://github.com/zc8340311/RobustAutoencoder|
-|GAD | Python |Tensorflow |Static Graph |https://github.com/raghavchalapathy/gad|
-|GEM | Python |- |Static Graph |https://github.com/safe-graph/DGFraud/tree/master/algorithms/GEM|
-|eFraudCom | Python |Pytorch |Static Graph |https://github.com/GeZhangMQ/eFraudCom|
-|MIDAS  |C++ |- |Dynamic Graph |https://github.com/Stream-AD/MIDAS|
-|DeFrauder | Python |- |Static Graph |https://github.com/LCS2-IIITD/DeFrauder|
+|GEM | Python |- |Heterogeneous Graph |https://github.com/safe-graph/DGFraud/tree/master/algorithms/GEM|
+|eFraudCom | Python | pytorch |Heterogeneous Graph |https://github.com/GeZhangMQ/eFraudCom|
 |DeepFD | Python| Pytorch |Bipartite Graph| https://github.com/JiaWu-Repository/DeepFDpyTorch|
-|STS-NN | Python| Pytorch |Static Graph |https://github.com/JiaWu-Repository/STS-NN|
-|UPFD | Python |Pytorch |Graph Database |https://github.com/safe-graph/GNN-FakeNews|
+|ANOMRANK | C++ |- |Dynamic Graph |https://github.com/minjiyoon/anomrank|
+|MIDAS  |C++ |- |Dynamic Graph |https://github.com/Stream-AD/MIDAS|
+|Sedanspot | C++ | - | Dynamic Graph | https://www.github.com/dhivyaeswaran/sedanspot |
+|F-FADE | Python |Pytorch |Dynamic Graph |http://snap.stanford.edu/f-fade/|
 |DeepSphere | Python| Tensorflow |Dynamic Graph |https://github.com/picsolab/DeepSphere|
+| Changedar | Matlab | - |Dynamic Graph| https://bhooi.github.io/changedar/|
+|UPFD | Python |Pytorch |Graph Database |https://github.com/safe-graph/GNN-FakeNews|
 |OCGIN | Python |Pytorch |Graph Database |https://github.com/LingxiaoShawn/GLOD-Issues|
+|DAGMM | Python |Pytorch |Non Graph |https://github.com/danieltan07/dagmm|
+|DevNet | Python |Tensorflow |Non Graph |https://github.com/GuansongPang/deviationnetwork|
+|RDA | Python |Tensorflow |Non Graph |https://github.com/zc8340311/RobustAutoencoder|
+|GAD | Python |Tensorflow |Non Graph |https://github.com/raghavchalapathy/gad|
 |Deep SAD | Python |Pytorch |Non Graph |https://github.com/lukasruff/Deep-SAD-PyTorch|
 |DATE | Python |Pytorch |Non Graph |https://github.com/Roytsai27/Dual-Attentive-Treeaware-Embedding|
+|STS-NN | Python| Pytorch |Non Graph |https://github.com/JiaWu-Repository/STS-NN|
 
 ----------
 
 ## Datasets
+
 ### Citation/Co-authorship Networks
+
 - Citeseer, Cora, Pubmed https://linqs.soe.ucsc.edu/data
 - DBLP http://snap.stanford.edu/data/com-DBLP.html, http://www.informatik.uni-trier.de/ ̃ley/db/
 - ACM http://www.arnetminer.org/open-academic-graph
+
 ### Social Networks
+
 - Enron http://odds.cs.stonybrook.edu/#table2
 - UCI Message http://archive.ics.uci.edu/ml
 - Google+ https://wangbinghui.net/dataset.html
@@ -267,23 +289,29 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 - NYTNews http://shebuti.com/SelectiveAnomalyEnsemble/
 - Politifact https://github.com/safe-graph/GNN-FakeNews
 - Gossipcop https://github.com/safe-graph/GNN-FakeNews
+
 ### Co-purchasing Networks
+
 - Disney Calls https://www.ipd.kit.edu/mitarbeiter/muellere/consub/
 - Amazon-v1 https://www.ipd.kit.edu/mitarbeiter/muellere/consub/
 - Amazon-v2 https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py
 - Elliptic https://www.kaggle.com/ellipticco/elliptic-data-set
 - Yelp https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py
+
 ### Transportation Networks
+
 - New York City Taxi http://www.nyc.gov/html/tlc/html/about/triprecorddata.shtml
 
 ----------
 
 ## Tools
+
 - Gephi https://gephi.org/
 - Pajek http://mrvar.fdv.uni-lj.si/pajek/
 - LFR https://www.santofortunato.net/resources
 
 ----------
+
 **Disclaimer**
 
 If you have any questions or updated news on graph anomaly detection, please feel free to contact us.
