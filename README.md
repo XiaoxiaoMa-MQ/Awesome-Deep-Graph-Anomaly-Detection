@@ -274,7 +274,9 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 
 ### Mostly Benchmarks
 
-- BlogCatalog, ACM, Flickr 
+- BlogCatalog https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/tree/main/Datasets
+- ACM https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/tree/main/Datasets
+- Flickr https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/tree/main/Datasets
 
 ### Citation/Co-authorship Networks
 
