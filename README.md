@@ -29,6 +29,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
   - [Anomalous Sub-graph Detection](#anomalous-sub-graph-detection)
   - [Anomalous Graph Detection](#anomalous-graph-detection)
   - [Published Algorithms and Models](#published-algorithms-and-models)
+  - [Open-sourced Graph Anomaly Detection Libraries](#open-sourced-graph-anomaly-detection-libraries)
   - [Datasets](#datasets)
     - [Mostly-used Benchmark Datasets](#mostly-used-benchmark-datasets)
     - [Citation/Co-authorship Networks](#citationco-authorship-networks)
@@ -267,6 +268,15 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 |Deep SAD | Python |Pytorch |Non Graph |https://github.com/lukasruff/Deep-SAD-PyTorch|
 |DATE | Python |Pytorch |Non Graph |https://github.com/Roytsai27/Dual-Attentive-Treeaware-Embedding|
 |STS-NN | Python| Pytorch |Non Graph |https://github.com/JiaWu-Repository/STS-NN|
+
+----------
+
+## Open-sourced Graph Anomaly Detection Libraries
+
+| Library | Link | 
+| ---- | ---- | 
+| pygod | [[Github](https://github.com/pygod-team/pygod)] |
+| DGFraud | [[Github](https://github.com/safe-graph/DGFraud)] |
 
 ----------
 
