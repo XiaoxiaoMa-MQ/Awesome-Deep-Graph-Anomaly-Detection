@@ -30,6 +30,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
   - [Anomalous Graph Detection](#anomalous-graph-detection)
   - [Published Algorithms and Models](#published-algorithms-and-models)
   - [Datasets](#datasets)
+    - [Mostly Benchmarks](#mostly-benchmarks)
     - [Citation/Co-authorship Networks](#citationco-authorship-networks)
     - [Social Networks](#social-networks)
     - [Co-purchasing Networks](#co-purchasing-networks)
@@ -270,6 +271,10 @@ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
 ----------
 
 ## Datasets
+
+### Mostly Benchmarks
+
+- BlogCatalog, ACM, Flickr 
 
 ### Citation/Co-authorship Networks
 
