@@ -64,7 +64,7 @@ _Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong,
 | [Graph based anomaly detection and description: A survey](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10618-014-0365-y) | _Data Min. Knowl. Discovery_ | 2015 |
 | [Anomaly detection in online social networks](https://www.sciencedirect.com/science/article/pii/S0378873314000331) | _Soc. Networks_ | 2014 |
 | [A survey of outlier detection methods in network anomaly identification](https://academic.oup.com/comjnl/article-pdf/54/4/570/1024761/bxr026.pdf) | _Comput. J._ | 2011 |
-| [Anomaly detection: A survey](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882) |_ ACM Comput. Surv._ | 2009 |
+| [Anomaly detection: A survey](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882) |_ACM Comput. Surv._ | 2009 |
 
 ----------
 
