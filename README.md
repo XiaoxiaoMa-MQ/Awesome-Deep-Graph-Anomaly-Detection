@@ -31,20 +31,6 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Surveys
 
-[__A Comprehensive Survey on Graph Anomaly Detection with Deep Learning__](https://ieeexplore.ieee.org/abstract/document/9565320). **28 Pages**, IEEE Trans. Knowl. Data Eng., 2021. 
-_Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu_ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
-
-    @article{ma2021comprehensive,
-        title={A comprehensive survey on graph anomaly detection with 
-                deep learning},
-        author={Ma, Xiaoxiao and Wu, Jia and Xue, Shan and Yang, Jian and 
-                Zhou, Chuan and Sheng, Quan Z and Xiong, Hui and
-                Akoglu, Leman},
-        journal={IEEE Transactions on Knowledge and Data Engineering},
-        year={2021},
-        publisher={IEEE}
-    }
-
 | Paper Title | Venue | Year | 
 | --------------- | ---- | ---- | 
 | [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/abstract/document/9565320) | _TKDE_ | 2021 |
