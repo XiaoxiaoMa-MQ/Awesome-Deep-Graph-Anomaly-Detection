@@ -31,20 +31,6 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Surveys
 
-[__A Comprehensive Survey on Graph Anomaly Detection with Deep Learning__](https://ieeexplore.ieee.org/abstract/document/9565320). **28 Pages**, IEEE Trans. Knowl. Data Eng., 2021. 
-_Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu_ Link: [https://ieeexplore.ieee.org/abstract/document/9565320]
-
-    @article{ma2021comprehensive,
-        title={A comprehensive survey on graph anomaly detection with 
-                deep learning},
-        author={Ma, Xiaoxiao and Wu, Jia and Xue, Shan and Yang, Jian and 
-                Zhou, Chuan and Sheng, Quan Z and Xiong, Hui and
-                Akoglu, Leman},
-        journal={IEEE Transactions on Knowledge and Data Engineering},
-        year={2021},
-        publisher={IEEE}
-    }
-
 | Paper Title | Venue | Year | 
 | --------------- | ---- | ---- | 
 | [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/abstract/document/9565320) | _TKDE_ | 2021 |
@@ -56,7 +42,7 @@ _Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong,
 | [Machine learning techniques for network anomaly detection: A survey](https://ieeexplore.ieee.org/iel7/9081868/9089428/09089465.pdf)| _Int. Conf. Inform. IoT Enabling Technol_ | 2020 |
 | [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://dl.acm.org/doi/10.1145/3172867) | _DSS_ | 2020 |
 | [A comprehensive survey on network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | _Telecommun. Syst._ |
-| [A survey of deep learning-based network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | Clust. Comput. | 2019 |
+| [A survey of deep learning-based network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | _Clust. Comput._ | 2019 |
  [Combining machine learning with knowledge engineering to detect fake news in social networks-a survey](https://dl.acm.org/doi/10.1145/3172867) | _AAAI_ | 2019 |
 | [Deep learning for anomaly detection: A survey](https://arxiv.org/pdf/1901.03407.pdf) | _arXiv_ | 2019 |
 | [Anomaly detection in dynamic networks: A survey](https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wics.1347) | _Rev. Comput. Stat._ | 2018 |
