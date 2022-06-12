@@ -90,7 +90,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | [An embedding approach to anomaly detection](https://ieeexplore.ieee.org/iel7/7491900/7498210/07498256.pdf) | _ICDE_ | 2016 | __ | [[Code]](https://cgi.luddy.indiana.edu/~filiradi/resources.html) |
 | [Oddball: Spotting anomalies in weighted graphs](https://kilthub.cmu.edu/articles/OddBall_Spotting_Anomalies_in_Weighted_Graphs/6607802/files/12098360.pdf) | _PAKDD_ | 2016 | Oddball | [[Code]](www.cs.cmu.edu/~lakoglu/#tools) | 
 | [Fraudar: Bounding graph fraud in the face of camouflage](https://dl.acm.org/doi/pdf/10.1145/2939672.2939747) | _SIGKDD_ | 2016 | Fraudar | [[Code]](https://bhooi.github.io/projects/fraudar/index.html) |
-| [Intrusion as (anti)social communication: characterization and detection](https://dl.acm.org/doi/pdf/10.1145/2339530.2339670) | _SIGKDD_ | 2012 | - | - |
+| [Intrusion as (anti)social communication: characterization and detection](https://dl.acm.org/doi/pdf/10.1145/2339530.2339670) | _SIGKDD_ | 2012 | - | - |  
 
 ----------
 
