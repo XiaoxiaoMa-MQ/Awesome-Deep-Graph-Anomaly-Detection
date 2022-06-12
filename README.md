@@ -42,7 +42,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | [Machine learning techniques for network anomaly detection: A survey](https://ieeexplore.ieee.org/iel7/9081868/9089428/09089465.pdf)| _Int. Conf. Inform. IoT Enabling Technol_ | 2020 |
 | [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://dl.acm.org/doi/10.1145/3172867) | _DSS_ | 2020 |
 | [A comprehensive survey on network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | _Telecommun. Syst._ |
-| [A survey of deep learning-based network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | Clust. Comput. | 2019 |
+| [A survey of deep learning-based network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | _Clust. Comput._ | 2019 |
  [Combining machine learning with knowledge engineering to detect fake news in social networks-a survey](https://dl.acm.org/doi/10.1145/3172867) | _AAAI_ | 2019 |
 | [Deep learning for anomaly detection: A survey](https://arxiv.org/pdf/1901.03407.pdf) | _arXiv_ | 2019 |
 | [Anomaly detection in dynamic networks: A survey](https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wics.1347) | _Rev. Comput. Stat._ | 2018 |
