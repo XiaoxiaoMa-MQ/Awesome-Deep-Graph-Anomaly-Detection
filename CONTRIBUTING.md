@@ -12,7 +12,7 @@
 
 ## Macquarie University
 - Xiaoxiao Ma, School of Computing
-- Fanzhen Liu, School of Computing
+- [Fanzhen Liu](https://fanzhenliu.github.io/), School of Computing
 - Xing Su, School of Computing
 - Ge Zhang, School of Computing
 - Jia Wu, School of Computing
