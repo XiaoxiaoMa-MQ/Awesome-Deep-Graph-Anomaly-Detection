@@ -11,7 +11,7 @@
 - Leman Akoglu, Heinz College of Information Systems, Carnegie Mellon University, 6612 Pittsburgh, Pennsylvania, United States, (e-mail: lakoglu@andrew.cmu.edu)
 
 ## Macquarie University
-- Xiaoxiao Ma, School of Computing
+- [Xiaoxiao Ma](https://xiaoxiaoma-mq.github.io/), School of Computing
 - [Fanzhen Liu](https://fanzhenliu.github.io/), School of Computing
 - Xing Su, School of Computing
 - Ge Zhang, School of Computing
