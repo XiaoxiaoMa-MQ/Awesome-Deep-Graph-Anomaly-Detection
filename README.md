@@ -130,7 +130,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 ## Other Graph-Mining-Based Anomaly Detection Methods
 
 | Paper Title | Venue | Year | Model | Code | 
-| ------ | ---- | -- | :----: | :----: |
+| :------: | :----: | :--: | :----: | :----: |
 | TBD | TBD | TBD | TBD | TBD |
 
 ----------
@@ -138,7 +138,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 ## Open-sourced Graph Anomaly Detection Libraries
 
 | Library | Link | 
-| ---- | ---- | 
+| :----: | ---- | 
 | pygod | [[Github](https://github.com/pygod-team/pygod)] |
 | DGFraud | [[Github](https://github.com/safe-graph/DGFraud)] |
 
