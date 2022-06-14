@@ -57,7 +57,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 ## Anomalous Node Detection
 
 | Paper Title | Venue | Year | Model | Code | 
-| ------ | ---- | -- | :----: | :----: |
+| ------ | ---- | -- | :----: | :----: | 
 | [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | - | - |
 | [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | <center>-</center> | <center>-</center> |
 | [Fraudre: Fraud detection dual-resistant to graph inconsistency and imbalance](https://ieeexplore.ieee.org/document/9679178) | _ICDM_ | 2021 | Fraudre | [[Code]](https://github.com/FraudDetection/FRAUDRE) |
