@@ -59,9 +59,9 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | ---- | ---- |
 | [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | - | - |
-| [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | - | - |
+| [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | <center>-</center> | <center>-</center> |
 | [Fraudre: Fraud detection dual-resistant to graph inconsistency and imbalance](https://ieeexplore.ieee.org/document/9679178) | _ICDM_ | 2021 | Fraudre | [[Code]](https://github.com/FraudDetection/FRAUDRE) |
-| [Few-shot network anomaly detection via cross-network meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922) | _WWW_ | 2021 | - | - |
+| [Few-shot network anomaly detection via cross-network meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922) | _WWW_ | 2021 | <center>-</center> | <center>-</center> |
 | [One-class graph neural networks for anomaly detection in attributed networks](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00521-021-05924-9) | _NCA_ | 2021 | OCGNN | [[Code]](https://github.com/WangXuhongCN/OCGNN) |
 | [Error-bounded graph anomaly loss for gnns](https://dl.acm.org/doi/pdf/10.1145/3340531.3411979) | _CIKM_ | 2021 | - | - |
 | [Decoupling representation learning and classification for gnn-based anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3404835.3462944) | _SIGIR_ | 2021 | DCI | - |
