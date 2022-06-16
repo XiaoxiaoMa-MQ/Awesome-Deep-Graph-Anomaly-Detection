@@ -128,7 +128,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ----------
 
-## Other Graph-Mining-Based Anomaly Detection Methods
+## Graph-Based Anomaly Detection Methods
 
 | Paper Title | Venue | Year | Model | Code | 
 | :------: | :----: | :--: | :----: | :----: |
