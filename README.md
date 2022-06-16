@@ -26,7 +26,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
   - [Tools](#tools)
 
 ----------
-## A Timeline of graph anomaly detection
+## A Timeline of graph anomaly detection(https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
 [![timeline](Timeline.png)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
 
 ## Surveys
