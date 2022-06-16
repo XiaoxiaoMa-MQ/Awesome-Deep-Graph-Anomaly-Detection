@@ -58,7 +58,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
-| [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | - | - |
+| [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | CoLA | [[Code]](https://github.com/GRAND-Lab/CoLA) |
 | [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | <center>-</center> | <center>-</center> |
 | [Fraudre: Fraud detection dual-resistant to graph inconsistency and imbalance](https://ieeexplore.ieee.org/document/9679178) | _ICDM_ | 2021 | Fraudre | [[Code]](https://github.com/FraudDetection/FRAUDRE) |
 | [Few-shot network anomaly detection via cross-network meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922) | _WWW_ | 2021 | <center>-</center> | <center>-</center> |
@@ -98,6 +98,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
+| [Anomaly Detection in Dynamic Graphs via Transformer](https://arxiv.org/pdf/2106.09876.pdf) | _TKDE_ | 2021 | TADDY | [[Code]](https://github.com/yixinliu233/TADDY_pytorch) |
 | [efraudcom: An e-commerce fraud detection system via competitive graph neural networks](https://www.researchgate.net/profile/Chuan-Zhou-3/publication/353353148_eFraudCom_An_E-commerce_Fraud_Detection_System_via_Competitive_Graph_Neural_Networks/links/60f768e30c2bfa282aeefa52/eFraudCom-An-E-commerce-Fraud-Detection-System-via-Competitive-Graph-Neural-Networks.pdf) | _IS_ | 2021 | efraudcom | [[Code]](https://github.com/GeZhangMQ/eFraudCom) |
 | [Unified graph embedding-based anomalous edge detection](https://ieeexplore.ieee.org/iel7/9200848/9206590/09206720.pdf) | _IJCNN_ | 2020 | - | - |
 | [AANE: Anomaly aware network embedding for anomalous link detection](https://ieeexplore.ieee.org/iel7/9338245/9338248/09338406.pdf) | _ICDM_ | 2020 | AANE | - |
