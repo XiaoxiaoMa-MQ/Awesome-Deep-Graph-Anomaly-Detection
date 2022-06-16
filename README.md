@@ -39,7 +39,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | [Anomalous Example Detection in Deep Learning: A Survey](https://ieeexplore.ieee.org/iel7/6287639/8948470/09144212.pdf) | _IEEE_ | 2021 |
 | [Outlier detection: Methods, models, and classification](https://dl.acm.org/doi/pdf/10.1145/3381028) |_ACM Comput. Surv._ | 2020 |
 | [A comprehensive survey of anomaly detection techniques for high dimensional big data](https://link.springer.com/article/10.1186/s40537-020-00320-x) | _J. Big Data_ | 2020 |
-| [Machine learning techniques for network anomaly detection: A survey](https://ieeexplore.ieee.org/iel7/9081868/9089428/09089465.pdf)| _Int. Conf. Inform. IoT Enabling Technol_ | 2020 |
+| [Machine learning techniques for network anomaly detection: A survey](https://ieeexplore.ieee.org/iel7/9081868/9089428/09089465.pdf)| _Int. Conf. Inform. IoT Enabling Technol_ | 2020 | 
 | [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://dl.acm.org/doi/10.1145/3172867) | _DSS_ | 2020 |
 | [A comprehensive survey on network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | _Telecommun. Syst._ |
 | [A survey of deep learning-based network anomaly detection](https://dl.acm.org/doi/10.1145/3172867) | _Clust. Comput._ | 2019 |
@@ -106,7 +106,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ----------
 
-## Anomalous Sub-graph Detection
+## Anomalous Sub-graph Detection  
 
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
