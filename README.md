@@ -56,7 +56,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Node Detection
 
-<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/Anomalous_Node_Toy.png" width = "100%" height = "45%" alt="Anomaly_Node_Toy.png" align=center/></div>
+<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/Anomalous_Node_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center/></div>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
@@ -101,7 +101,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Edge Detection
 
-[![Anomalous Edge detection](./pics/Anomaly_Edge_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
+<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/Anomalous_Edge_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center/></div>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
@@ -116,7 +116,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Sub-graph Detection
 
-[![Anomalous SG Detection](./pics/Anomaly_SG_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
+<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/Anomalous_SG_Toy.png" width = "80%" height = "100%" alt="Anomalous_SG_Toy.png" align=center/></div>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
@@ -128,7 +128,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Graph-Level Detection
 
-[![Anomalous G Detection](./pics/Anomaly_G_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
+<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/Anomalous_G_Toy.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center/></div>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
@@ -141,7 +141,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Graph-Based Anomaly Detection Methods
 
-<a href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/GraphBased.png" width = "100%" height = "45%" alt="Anomaly_GraphBased_Toy.png" align=center/></a>
+<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/GraphBased.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center/></div>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
