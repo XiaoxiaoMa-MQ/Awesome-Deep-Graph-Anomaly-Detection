@@ -22,4 +22,4 @@
 ## Invited Contributors
 - Yixin Liu, Monash University
 - Ming Jin, Monash University
-- Tong Zhao
+- Tong Zhao, Research Scientist @ Snap Research
