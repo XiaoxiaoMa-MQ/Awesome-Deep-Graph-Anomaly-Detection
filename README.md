@@ -15,7 +15,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
   - [Anomalous Edge Detection](#anomalous-edge-detection)
   - [Anomalous Sub-graph Detection](#anomalous-sub-graph-detection)
   - [Anomalous Graph-Level Detection](#anomalous-graph-level-detection)
-  - [Other Graph-Mining-Based Anomaly Detection Methods](#other-graph-mining-based-anomaly-detection-methods)
+  - [Graph-Based Anomaly Detection Methods](#graph-based-anomaly-detection-methods)
   - [Open-sourced Graph Anomaly Detection Libraries](#open-sourced-graph-anomaly-detection-libraries)
   - [Datasets](#datasets)
     - [Mostly-used Benchmark Datasets](#mostly-used-benchmark-datasets)
@@ -59,7 +59,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 [![Anomalous Node Detection](Anomaly_Node_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
-| ------ | ---- | -- | :----: | :----: |
+| ------ | :----: | :--: | :----: | :----: |
 | [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | CoLA | [[Code]](https://github.com/GRAND-Lab/CoLA) |
 | [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | <center>-</center> | <center>-</center> |
 | [Fraudre: Fraud detection dual-resistant to graph inconsistency and imbalance](https://ieeexplore.ieee.org/document/9679178) | _ICDM_ | 2021 | Fraudre | [[Code]](https://github.com/FraudDetection/FRAUDRE) |
@@ -101,7 +101,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 [![Anomalous Edge detection](Anomaly_Edge_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
-| ------ | ---- | -- | :----: | :----: |
+| ------ | :----: | :--: | :----: | :----: |
 | [Anomaly Detection in Dynamic Graphs via Transformer](https://arxiv.org/pdf/2106.09876.pdf) | _TKDE_ | 2021 | TADDY | [[Code]](https://github.com/yixinliu233/TADDY_pytorch) |
 | [efraudcom: An e-commerce fraud detection system via competitive graph neural networks](https://www.researchgate.net/profile/Chuan-Zhou-3/publication/353353148_eFraudCom_An_E-commerce_Fraud_Detection_System_via_Competitive_Graph_Neural_Networks/links/60f768e30c2bfa282aeefa52/eFraudCom-An-E-commerce-Fraud-Detection-System-via-Competitive-Graph-Neural-Networks.pdf) | _IS_ | 2021 | efraudcom | [[Code]](https://github.com/GeZhangMQ/eFraudCom) |
 | [Unified graph embedding-based anomalous edge detection](https://ieeexplore.ieee.org/iel7/9200848/9206590/09206720.pdf) | _IJCNN_ | 2020 | - | - |
@@ -116,7 +116,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 [![Anomalous SG Detection](Anomaly_SG_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
-| ------ | ---- | -- | :----: | :----: |
+| ------ | :----: | :--: | :----: | :----: |
 | [SliceNDice: Mining suspicious multi-attribute entity groups with multi-view graphs](https://arxiv.org/abs/1908.07087) | _arXiv_ | 2020 | SliceNDice | [[Code]](https://github.com/hamedn/SliceNDice) |
 | [Deep structure learning for fraud detection](https://ieeexplore.ieee.org/iel7/8591042/8594809/08594881.pdf) | _ICDM_ | 2018 | DeepFD | [[Code]](https://github.com/JiaWu-Repository/DeepFDpyTorch) |
 | [Fraudne: A joint embedding approach for fraud detection](https://ieeexplore.ieee.org/iel7/8465565/8488986/08489585.pdf) | _IJCNN_ | 2018 | FraudNE | - |
@@ -128,7 +128,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 [![Anomalous G Detection](Anomaly_G_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
-| ------ | ---- | -- | :----: | :----: |
+| ------ | :----: | :--: | :----: | :----: |
 | [User preference-aware fake news detection](https://arxiv.org/abs/2104.12259) | _SIGIR_ | 2021 | UPFD | [[Code]](https://github.com/safe-graph/GNN-FakeNews) |
 | [On using classification datasets to evaluate graph outlier detection: Peculiar observations and new insights](https://arxiv.org/abs/2012.12931) | _arXiv_ | 2021 | OCGIN | [[Code]](https://github.com/LingxiaoShawn/GLOD-Issues) |
 | [Glad-paw: Graph-based log anomaly detection by position aware weighted graph attention network](https://link.springer.com/content/pdf/10.1007/978-3-030-75762-5_6.pdf) | _PAKDD_ | 2021 | Glad-paw | - |
@@ -141,8 +141,9 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 [![Graph-based Detection](GraphBased_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
-| :------: | :----: | :--: | :----: | :----: |
-| TBD | TBD | TBD | TBD | TBD |
+| ------ | :----: | :--: | :----: | :----: |
+| Dynamic Graph-Based Anomaly Detection in the Electrical Grid | _Trans. Power Syst._ | 2021 | - | - |
+| NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification | _SSDBM_ | 2021 | NF-GNN | - |
 
 ----------
 
