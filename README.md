@@ -56,6 +56,8 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Node Detection
 
+[![Anomalous Node Detection](Anomaly_Node_Toy.pdf)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
+
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
 | [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | CoLA | [[Code]](https://github.com/GRAND-Lab/CoLA) |
