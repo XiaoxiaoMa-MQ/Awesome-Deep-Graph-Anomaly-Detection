@@ -29,8 +29,6 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 ## A Timeline of graph anomaly detection
 [![timeline](Timeline.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
-<http://yinping4256.github.io>{:target="_blank"}
-
 ## Surveys
 
 | **Paper Title** | **Venue** | **Year** | 
