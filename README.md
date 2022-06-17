@@ -60,6 +60,8 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
+| [ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning](https://dl.acm.org/doi/10.1145/3459637.3482057) | _CIKM_ | 2021 | ANEMONE | [[Code]](https://github.com/GRAND-Lab/ANEMONE) |
+| [Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/document/9568697) | _TKDE_ | 2021 | SL-GAD | [[Code]](https://github.com/KimMeen/SL-GAD) |
 | [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | CoLA | [[Code]](https://github.com/GRAND-Lab/CoLA) |
 | [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | <center>-</center> | <center>-</center> |
 | [Fraudre: Fraud detection dual-resistant to graph inconsistency and imbalance](https://ieeexplore.ieee.org/document/9679178) | _ICDM_ | 2021 | Fraudre | [[Code]](https://github.com/FraudDetection/FRAUDRE) |
