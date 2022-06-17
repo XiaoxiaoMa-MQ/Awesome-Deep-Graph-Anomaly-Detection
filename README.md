@@ -56,7 +56,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Node Detection
 
-<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/Anomalous_Node_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center/></div>
+<div href="https://ieeexplore.ieee.org/abstract/document/9565320" align=center ><img src="./pics/Anomalous_Node_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center/></div> 
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
