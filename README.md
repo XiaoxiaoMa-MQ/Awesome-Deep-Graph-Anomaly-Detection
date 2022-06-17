@@ -101,7 +101,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Edge Detection
 
-<a href="https://ieeexplore.ieee.org/abstract/document/9565320"target="_blank"><img src="./pics/Anomalous_Edge_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_Edge_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
