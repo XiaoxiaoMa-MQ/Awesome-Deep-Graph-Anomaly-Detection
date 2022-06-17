@@ -138,12 +138,13 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Graph-Based Anomaly Detection Methods
 
-[![Graph-based Detection](GraphBased_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
-| Paper Title | Venue | Year | Model | Code | 
+<img src="./Anomaly_GraphBased_Toy.png" width = "100%" height = "45%" alt="Anomaly_GraphBased_Toy.png" align=center href="https://ieeexplore.ieee.org/abstract/document/9565320" />
+
+| Paper Title | Venue | Year | Model | Code |
 | ------ | :----: | :--: | :----: | :----: |
-| Dynamic Graph-Based Anomaly Detection in the Electrical Grid | _Trans. Power Syst._ | 2021 | - | - |
-| NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification | _SSDBM_ | 2021 | NF-GNN | - |
+| [Dynamic Graph-Based Anomaly Detection in the Electrical Grid](https://ieeexplore.ieee.org/abstract/document/9638319) | _Trans. Power Syst._ | 2021 | - | - |
+| [NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification](https://dl.acm.org/doi/abs/10.1145/3468791.3468814) | _SSDBM_ | 2021 | NF-GNN | - |
 
 ----------
 
