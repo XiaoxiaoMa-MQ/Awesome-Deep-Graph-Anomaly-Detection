@@ -56,7 +56,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Node Detection
 
-[![Anomalous Node Detection](Anomaly_Node_Toy.pdf)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
+[![Anomalous Node Detection](Anomaly_Node_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
@@ -98,6 +98,8 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Edge Detection
 
+[![Anomalous Edge detection](Anomaly_Edge_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
+
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
 | [Anomaly Detection in Dynamic Graphs via Transformer](https://arxiv.org/pdf/2106.09876.pdf) | _TKDE_ | 2021 | TADDY | [[Code]](https://github.com/yixinliu233/TADDY_pytorch) |
@@ -111,6 +113,8 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Sub-graph Detection
 
+[![Anomalous SG Detection](Anomaly_SG_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
+
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
 | [SliceNDice: Mining suspicious multi-attribute entity groups with multi-view graphs](https://arxiv.org/abs/1908.07087) | _arXiv_ | 2020 | SliceNDice | [[Code]](https://github.com/hamedn/SliceNDice) |
@@ -120,6 +124,8 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 ----------
 
 ## Anomalous Graph-Level Detection
+
+[![Anomalous G Detection](Anomaly_G_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
 | ------ | ---- | -- | :----: | :----: |
@@ -131,6 +137,8 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 ----------
 
 ## Graph-Based Anomaly Detection Methods
+
+[![Graph-based Detection](GraphBased_Toy.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 | Paper Title | Venue | Year | Model | Code | 
 | :------: | :----: | :--: | :----: | :----: |
