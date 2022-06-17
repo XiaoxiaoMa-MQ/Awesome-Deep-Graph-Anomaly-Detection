@@ -60,19 +60,17 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
-| [ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning](https://dl.acm.org/doi/10.1145/3459637.3482057) | _CIKM_ | 2021 | ANEMONE | [[Code]](https://github.com/GRAND-Lab/ANEMONE) |
-| [Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/document/9568697) | _TKDE_ | 2021 | SL-GAD | [[Code]](https://github.com/KimMeen/SL-GAD) |
 | [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | CoLA | [[Code]](https://github.com/GRAND-Lab/CoLA) |
 | [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | <center>-</center> | <center>-</center> |
 | [Fraudre: Fraud detection dual-resistant to graph inconsistency and imbalance](https://ieeexplore.ieee.org/document/9679178) | _ICDM_ | 2021 | Fraudre | [[Code]](https://github.com/FraudDetection/FRAUDRE) |
 | [Few-shot network anomaly detection via cross-network meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922) | _WWW_ | 2021 | <center>-</center> | <center>-</center> |
 | [One-class graph neural networks for anomaly detection in attributed networks](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00521-021-05924-9) | _NCA_ | 2021 | OCGNN | [[Code]](https://github.com/WangXuhongCN/OCGNN) |
-| [Error-bounded graph anomaly loss for gnns](https://dl.acm.org/doi/pdf/10.1145/3340531.3411979) | _CIKM_ | 2021 | - | - |
+| [Error-bounded Graph Anomaly Loss for GNNs](https://dl.acm.org/doi/pdf/10.1145/3340531.3411979) | _CIKM_ | 2021 | GAL | [[Code]](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
+| [Enhancing graph neural network-based fraud detectors against camouflaged fraudsters](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903) | _CIKM_ | 2020 | CARE-GNN | [[Code]](https://github.com/YingtongDou/CARE-GNN) |
 | [Decoupling representation learning and classification for gnn-based anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3404835.3462944) | _SIGIR_ | 2021 | DCI | - |
 | [Resgcn: Attention-based deep residual modeling for anomaly detection on attributed networks](https://link.springer.com/article/10.1007/s10994-021-06044-0) | _ML_ | 2021 | Resgcn | [[Code]](https://bitbucket.org/paulpei/resgcn/src/master/) |
 | [Selective network discovery via deep reinforcement learning on embedded spaces](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00365-8) | _ANS_ | 2021 | NAC | - |
 | [A deep multi-view framework for anomaly detection on attributed networks](https://ieeexplore.ieee.org/iel7/69/4358933/09162509.pdf) | _TKDE_ | 2020 | ALARM  | - |
-| [Enhancing graph neural network-based fraud detectors against camouflaged fraudsters](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903) | _CIKM_ | 2020 | CARE-GNN | [[Code]](https://github.com/YingtongDou/CARE-GNN) |
 | [Outlier resistant unsupervised deep architectures for attributed network embedding](https://dl.acm.org/doi/pdf/10.1145/3336191.3371788) | _WSDM_ | 2020 | DONE/AdONE | [[Code]](https://github.com/pygod-team/pygod) |
 | [Gcn-based user representation learning for unifying robust recommendation and fraudster detection](https://dl.acm.org/doi/pdf/10.1145/3397271.3401165) | _SIGIR_ | 2020 | GraphRfi | - |
 | [Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3397271.3401253) | _SIGIR_ | 2020 | GraphConsis | [[Code]](https://github.com/safe-graph/DGFraud/tree/master/algorithms/GraphConsis)|
