@@ -26,7 +26,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
   - [Tools](#tools)
 
 ----------
-## [A Timeline of graph anomaly detection](https://ieeexplore.ieee.org/abstract/document/9565320){:target="_blank"}
+## [A Timeline of graph anomaly detection](https://ieeexplore.ieee.org/abstract/document/9565320)
 [![timeline](Timeline.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 ## Surveys
@@ -56,7 +56,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Node Detection
 
-<div ><a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_Node_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a></div> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_Node_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
@@ -101,7 +101,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Edge Detection
 
-<div><a href="https://ieeexplore.ieee.org/abstract/document/9565320"target="_blank"><img src="./pics/Anomalous_Edge_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a></div>
+<a href="https://ieeexplore.ieee.org/abstract/document/9565320"target="_blank"><img src="./pics/Anomalous_Edge_Toy.png" width = "80%" height = "100%" alt="Anomaly_Node_Toy.png" align=center target="_blank"/></a>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
@@ -116,7 +116,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Sub-graph Detection
 
-<div ><a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_SG_Toy.png" width = "80%" height = "100%" alt="Anomalous_SG_Toy.png" align=center target="_blank"/></a></div>
+<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_SG_Toy.png" width = "80%" height = "100%" alt="Anomalous_SG_Toy.png" align=center target="_blank"/></a>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
@@ -128,7 +128,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Anomalous Graph-Level Detection
 
-<div ><a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_G_Toy.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center target="_blank"/></a></div>
+<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"><img src="./pics/Anomalous_G_Toy.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center target="_blank"/></a>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** | 
 | ------ | :----: | :--: | :----: | :----: |
@@ -141,7 +141,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Graph-Based Anomaly Detection Methods
 
-<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank" ><img src="./pics/GraphBased.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"/></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank" > aa <img src="./pics/GraphBased.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"/></a>
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
