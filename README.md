@@ -141,7 +141,8 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 ## Graph-Based Anomaly Detection Methods
 
-<div href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank" ><img src="./pics/GraphBased.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center target="_blank"/></div>
+<div><a href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank" ><img src="./pics/GraphBased.png" width = "80%" height = "100%" alt="Anomalous_G_Toy.png" align=center href="https://ieeexplore.ieee.org/abstract/document/9565320" target="_blank"/></a></div>
+>>>>>>> 6a37b171d79165db93cb57f8b4498f3eac817ab9
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
