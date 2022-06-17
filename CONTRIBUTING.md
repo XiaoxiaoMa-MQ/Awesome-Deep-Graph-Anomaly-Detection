@@ -18,3 +18,8 @@
 - Jia Wu, School of Computing
 - Shan Xue, School of Computing
 - Jian Yang, School of Computing
+
+## Invited Contributors
+- Yixin Liu, Monash University
+- Ming Jin, Monash University
+- Tong Zhao
