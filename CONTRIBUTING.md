@@ -20,6 +20,7 @@
 - Jian Yang, School of Computing
 
 ## Invited Contributors
+- Tong Zhao, Research Scientist @ Snap Research
 - Yixin Liu, Monash University
 - Ming Jin, Monash University
-- Tong Zhao, Research Scientist @ Snap Research
+
