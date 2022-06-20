@@ -145,6 +145,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
+| [Detecting rumours with latency guarantees using massive streaming data](https://link.springer.com/content/pdf/10.1007/s00778-022-00750-4.pdf) | _VLDB J._ | 2022 | - | - |
 | [Dynamic Graph-Based Anomaly Detection in the Electrical Grid](https://ieeexplore.ieee.org/abstract/document/9638319) | _Trans. Power Syst._ | 2021 | - | - |
 | [NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification](https://dl.acm.org/doi/abs/10.1145/3468791.3468814) | _SSDBM_ | 2021 | NF-GNN | - |
 
