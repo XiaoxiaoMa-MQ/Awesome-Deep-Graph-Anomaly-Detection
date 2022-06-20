@@ -21,6 +21,9 @@
 
 ## Invited Contributors
 - Tong Zhao, Research Scientist @ Snap Research
+- Hamida Seba, Université Claude Bernard Lyon 1
+- Kaize Ding, Arizona State Universi
 - Yixin Liu, Monash University
 - Ming Jin, Monash University
+- Yanling Wang, Renmin University of China
 
