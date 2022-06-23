@@ -33,7 +33,6 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
-| [Graph Neural Networks for Anomaly Detection in Industrial Internet of Things](https://ieeexplore.ieee.org/document/9471816) | _IEEE Internet of Things Journal_ | 2022 |
 | [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/abstract/document/9565320) | _TKDE_ | 2021 |
 | [Deep learning for anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3439950) | _ACM Comput. Surv._ | 2021 |
 | [Anomaly detection for big data using efficient techniques: A review](https://link.springer.com/chapter/10.1007/978-981-15-3514-7_79) | AIDE | 2021 | 
@@ -147,6 +146,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
 | [Detecting rumours with latency guarantees using massive streaming data](https://link.springer.com/content/pdf/10.1007/s00778-022-00750-4.pdf) | _VLDB J._ | 2022 | - | - |
+| [Graph Neural Networks for Anomaly Detection in Industrial Internet of Things](https://ieeexplore.ieee.org/document/9471816) | _IEEE Internet of Things Journal_ | 2022 | -| -|
 | [Dynamic Graph-Based Anomaly Detection in the Electrical Grid](https://ieeexplore.ieee.org/abstract/document/9638319) | _Trans. Power Syst._ | 2021 | - | - |
 | [NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification](https://dl.acm.org/doi/abs/10.1145/3468791.3468814) | _SSDBM_ | 2021 | NF-GNN | - |
 
