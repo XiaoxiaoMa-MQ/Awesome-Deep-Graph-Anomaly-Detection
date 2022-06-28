@@ -60,6 +60,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 
 | **Paper Title** | **Venue** | **Year** | **Model** | **Code** |
 | ------ | :----: | :--: | :----: | :----: |
+| [ComGA: Community-Aware Attributed Graph Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3488560.3498389) | _WSDM_ | 2022 | ComGA | [[Code]](https://github.com/XuexiongLuoMQ/ComGA) |
 | [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09395172.pdf) | _TNNLS_ | 2021 | CoLA | [[Code]](https://github.com/GRAND-Lab/CoLA) |
 | [Cross-domain graph anomaly detection](https://ieeexplore.ieee.org/iel7/5962385/6104215/09556511.pdf) | _TNNLS_ | 2021 | <center>-</center> | <center>-</center> |
 | [A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning](https://tzhao.io/files/papers/TNNLS21_pamful.pdf) | _TNNLS_ | 2021 | PamFul | [[Code]](https://github.com/zhao-tong/Graph-Anomaly-Loss) |
