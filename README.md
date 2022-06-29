@@ -71,7 +71,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | [Few-shot network anomaly detection via cross-network meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922) | _WWW_ | 2021 | <center>-</center> | <center>-</center> |
 | [Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field](https://ojs.aaai.org/index.php/AAAI/article/view/16582) | _AAAI_ | 2021 | <center>-</center> | <center>-</center> |
 | [One-class graph neural networks for anomaly detection in attributed networks](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00521-021-05924-9) | _NCA_ | 2021 | OCGNN | [[Code]](https://github.com/WangXuhongCN/OCGNN) |
-| [Decoupling representation learning and classification for gnn-based anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3404835.3462944) | _SIGIR_ | 2021 | DCI | - |
+| [Decoupling representation learning and classification for gnn-based anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3404835.3462944) | _SIGIR_ | 2021 | DCI | [[Code]](https://github.com/wyl7/DCI-pytorch) |
 | [Resgcn: Attention-based deep residual modeling for anomaly detection on attributed networks](https://link.springer.com/article/10.1007/s10994-021-06044-0) | _ML_ | 2021 | Resgcn | [[Code]](https://bitbucket.org/paulpei/resgcn/src/master/) |
 | [Selective network discovery via deep reinforcement learning on embedded spaces](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00365-8) | _ANS_ | 2021 | NAC | - |
 | [A deep multi-view framework for anomaly detection on attributed networks](https://ieeexplore.ieee.org/iel7/69/4358933/09162509.pdf) | _TKDE_ | 2020 | ALARM  | - |
