@@ -150,6 +150,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | [Detecting rumours with latency guarantees using massive streaming data](https://link.springer.com/content/pdf/10.1007/s00778-022-00750-4.pdf) | _VLDB J._ | 2022 | - | - |
 | [Graph Neural Networks for Anomaly Detection in Industrial Internet of Things](https://ieeexplore.ieee.org/document/9471816) | _IEEE Internet of Things Journal_ | 2022 | -| -|
 | [Dynamic Graph-Based Anomaly Detection in the Electrical Grid](https://ieeexplore.ieee.org/abstract/document/9638319) | _Trans. Power Syst._ | 2021 | - | [[Code]](https://github.com/bhooi/dynamic.git) |
+| [Nonparametric Anomaly Detection on Time Series of Graphs](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1844214?scroll=top&needAccess=true) | _J. Comput. Graph. Stat._ | 2021 | - | [[Code]](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2020.1844214?scroll=top) |
 | [NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification](https://dl.acm.org/doi/abs/10.1145/3468791.3468814) | _SSDBM_ | 2021 | NF-GNN | - |
 
 ----------
