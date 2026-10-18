@@ -161,6 +161,7 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 | :----: | ---- | 
 | pygod | [[Github](https://github.com/pygod-team/pygod)] |
 | DGFraud | [[Github](https://github.com/safe-graph/DGFraud)] |
+| GNN-fraud-ring-detection | [[Github](https://github.com/RishabhPande/GNN-fraud-ring-detection)] |
 
 ----------
 
@@ -179,7 +180,6 @@ A collection of papers on deep learning for graph anomaly detection, and publish
 - ACM http://www.arnetminer.org/open-academic-graph
 
 ### Social Networks
-
 - Enron http://odds.cs.stonybrook.edu/#table2
 - UCI Message http://archive.ics.uci.edu/ml
 - Google+ https://wangbinghui.net/dataset.html
